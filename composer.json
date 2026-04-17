@@ -2,7 +2,7 @@
     "name": "projectsaturnstudios/laravel-design-patterns",
     "description": "Design patterns for Laravel applications",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "MIT",
     "authors": [
         {
@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "php": "^8.2",
-        "spatie/laravel-data": "^4.11",
+        "php": "^8.3|^8.4",
+        "spatie/laravel-data": "^4.22",
         "projectsaturnstudios/php-design-patterns": "^0.1.0"
     },
     "require-dev": {},
